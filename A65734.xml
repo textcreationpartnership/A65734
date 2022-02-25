@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A visitation of love, sent unto all: that those that do not see, may see, and return out of the fall. By Dorothy White</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65734</idno>
+            <idno type="STC">Wing W1760</idno>
+            <idno type="STC">ESTC R222573</idno>
+            <idno type="EEBO-CITATION">99833729</idno>
+            <idno type="PROQUEST">99833729</idno>
+            <idno type="VID">38207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38207)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2221:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A visitation of love, sent unto all: that those that do not see, may see, and return out of the fall. By Dorothy White</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partially in verse.</note>
+                  <note>Copy trimmed; with print show-through.</note>
+                  <note>Reproduction of the original in the Swarthmore College Library, Pennsylvania.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Redemption --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38207:1" rendition="simple:additions"/>
+            <p>A Viſitation OF LOVE, Sent unto All: that thoſe that do not ſee, may ſee, and return out of the FALL.</p>
+            <p>By <hi>Dorothy White.</hi>
+            </p>
+            <p>LONDON, Printed for the Author, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38207:2" rendition="simple:additions"/>
+            <pb facs="tcp:38207:2" rendition="simple:additions"/>
+            <head>A <hi>Viſitation of Love,</hi> Sent unto All: that they that do not ſee, may ſee, and re<g ref="char:EOLhyphen"/>turn out of the FALL.</head>
+            <p>THAT which is upon my Mind, is to open the Eyes of the <hi>Blind: Moſes,</hi> unto whom the Complaint came concerning <hi>Medod</hi> and <hi>Eldod,</hi> how that they were Propheſying in <hi>Iſrael:</hi> at which ſome were troubled, and buſied themſelves, complaining to him: to whom he meekly anſwered, <hi>I would that all the Lord's People were Prophets.</hi> And indeed, all People are the Lord's, as well as <hi>Baalam's Aſs,</hi> by whom the Lord ſpake.</p>
+            <p>One thing more; which is this; the <hi>Diſciples</hi> of Chriſt, being too buſie, came unto him with their Complaint, ſaying,</p>
+            <p>
+               <hi>There are ſuch that Propheſie, and work Miracles in the Name, and in thy Name caſt out Devils, and follow not us; wilt thou that we command Fire to come down from Heaven to deſtroy them.</hi> Here you may ſee how buſie they were; but mark the anſwer of that meek <hi>Lamb,</hi> who came to deſtroy nothing but <hi>Sin;</hi> and to ſave the Life of all; <hi>None can work Miracles in my Name, and ſpeak ſlightly of me: he that is not againſt us is with us.</hi> He did not ſay, <hi>Prepare Watchmen to keep them down.</hi> Neither did I ever read, throughout all the Scriptures, of any outward <hi>Watchmen,</hi> that the <hi>Church</hi> or <hi>Saints</hi> of God did ever ſet, or prepare to defend them: but theſe <hi>Watchmen</hi> which the Prieſts ſet, and gave large Money to belye the <hi>Reſurrection</hi> of Chriſt: ſo for Money all the Devil's <hi>Watchmen</hi> are hired.</p>
+            <pb n="2" facs="tcp:38207:3"/>
+            <div type="poem">
+               <lg>
+                  <l>GOD who inhabits Eternity, and dwelleth in the Light,</l>
+                  <l>Is coming to Judge the <hi>Watchmen</hi> of the Night:</l>
+                  <l>Long it was I did you behold,</l>
+                  <l>Till the Spirit ſaid to me, do thee unfold.</l>
+                  <l>And you blind <hi>Watchmen,</hi> I cannot let you alone.</l>
+                  <l>Seeing upon you muſt fall the little Stone:</l>
+                  <l>Therefore unto you I give this Call,</l>
+                  <l>For upon you that little Stone muſt fall.</l>
+                  <l>And of theſe blind <hi>Watchmen</hi> I muſt ſay ſomething more,</l>
+                  <l>They are as blind as <hi>Sodomites:</hi> that cannot find the Door:</l>
+                  <l>
+                     <hi>[The Door is Chriſt]</hi>
+                  </l>
+                  <l>This to the <hi>Watchmen</hi> may prove ſad News,</l>
+                  <l>They are ſuch <hi>Watchmen</hi> as God did never chuſe;</l>
+                  <l>This I have ſeen for twenty years and more;</l>
+                  <l>
+                     <hi>Watchm<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> were not ſet to ſtand without the Door;</l>
+                  <l>But ſuch things we did our ſelves diſown,</l>
+                  <l>When <hi>Light</hi> and <hi>Perfection</hi> we to the <hi>World</hi> made known.</l>
+               </lg>
+               <lg>
+                  <l>When that ſingly we did ſtand</l>
+                  <l>We ſaid we were protected by God's Right hand,</l>
+                  <l>We amaz'd the World, we put them to a ſtand.</l>
+               </lg>
+               <lg>
+                  <l>What ſhall I ſay! but this I muſt conclude,</l>
+                  <l>The Saying true of the Apoſtle <hi>Jude.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Wells without Water, Clouds without Rain,</hi>
+                  </l>
+                  <l>
+                     <hi>Carried about with the Tempeſt.</hi>
+                  </l>
+                  <l>Such are craftily crept in among us.</l>
+               </lg>
+               <lg>
+                  <l>'Tis neither gallant <hi>Ship,</hi> nor <hi>Glley</hi> with its <hi>Owers,</hi>
+                  </l>
+                  <l>Neither the <hi>Watchmen</hi> that ſtandeth at the Doors,</l>
+                  <l>Neither of them all ever ſhall prevail,</l>
+                  <l>Neither <hi>Ship,</hi> nor <hi>Maſte,</hi> nor its gallant <hi>Sail;</hi>
+                  </l>
+                  <l>Nothing ſhall prevail but that little Stone,</l>
+                  <l>Let him work, and do his Work alone.</l>
+                  <l>
+                     <hi>David</hi> made uſe of this little Stone,</l>
+                  <l>And afterwards became a King to ſit upon the Throne.</l>
+                  <l>So the little ſtone is come, cut out of the Mountain without hands,</l>
+                  <l>To try all <hi>Building</hi> that are built upon the Sands.</l>
+                  <l>And this I ſay, with this Alluſion;</l>
+                  <l>He'll turn the Wiſdom of the Wiſe into Confuſion;</l>
+                  <l>The little Stone, the ſtumbling Block,</l>
+                  <l>Againſt wiſe Builders now is come to knock,</l>
+                  <l>Who have not their Foundation on the Rock.</l>
+               </lg>
+               <pb n="3" facs="tcp:38207:3"/>
+               <lg>
+                  <l>If thou wouldſt know who theſe things do write,</l>
+                  <l>And who it is that doth this indite,</l>
+                  <l>I am one that's hidden in the <hi>Rock,</hi>
+                  </l>
+                  <l>That ſweetly feeds with the <hi>Shepherds</hi> little Flock:</l>
+                  <l>And if that thou doſt thus enquire;</l>
+                  <l>I am one that have oft be<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thorow the Fire;</l>
+                  <l>Which Fire thou muſt alſo come <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o feel,</l>
+                  <l>To deſtroy both thy Wit and Skill;</l>
+                  <l>And then God's Word thou wilt ſurely feel.</l>
+               </lg>
+               <lg>
+                  <l>I have been one have met the <hi>Watchmen</hi> of the Night,</l>
+                  <l>Inquiring after my B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>loved, but they gave me a Smi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e:</l>
+                  <l>So this I ſay to <hi>Watchmen</hi> of all ſorts,</l>
+                  <l>You that are gathered into Outward Courts;</l>
+                  <l>Your Work it was, firſt to watch within,</l>
+                  <l>To feel God's power, to deſtroy the Devil and Sin,</l>
+                  <l>That you may find Chriſt the Door,</l>
+                  <l>Who came to give Life, and Men to reſtore.</l>
+                  <l>I feel the Fountain, that's my Life and Peace,</l>
+                  <l>Which doth flow, and is ſhall never ceaſe;</l>
+                  <l>I feel the Well, the which is digged deep,</l>
+                  <l>From which flows waters moſt pleaſant and ſweet:</l>
+                  <l>Yea, the <hi>Honey</hi> that flows out of the Rock,</l>
+                  <l>Which doth ſweetly ſatisfie the Shepherd's little Flock;</l>
+                  <l>Yea, the hidden Manna, and the Bread at home,</l>
+                  <l>Yea the Springs that are overflown;</l>
+                  <l>Yea the Deſert come<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h to rejoyce,</l>
+                  <l>To hear the <hi>Turtle</hi> with its pleaſant voyce;</l>
+                  <l>Now I am come to hear him ſi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g at home,</l>
+                  <l>And to ſing Praiſe before God's holy Throne.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <p>Ariſe, O <hi>Zion,</hi> and ſhine, for the day of thy ſhining is come: put on thy beautiful Garments, for the Glory of the Lord is ari<g ref="char:EOLhyphen"/>ſing to ſhine upon thee; O <hi>Zion,</hi> behold thy King cometh unto thee, ſhining in his Glory and his Majeſty; behold he rideth meekly on; he will get the Victory before that he hath done: he is coming to prepare thy waſte Places, and to raiſe the Deſo<g ref="char:EOLhyphen"/>lations of <hi>Jeruſalem,</hi> and to make her a Fenced City, with Walls on every ſide, and to prepare and bring her up, that ſhe may be known to be his Bride. So I have glad Tydings to preach unto the Poor, and Liberty to the Captive, and the opening the Pri<g ref="char:EOLhyphen"/>ſon
+<pb n="4" facs="tcp:38207:4"/>Doors unto them that are bound; and to ſay to the Priſoner of <hi>Hope,</hi> come forth, and ariſe in the Shining of the Son of <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs;</hi> who is ariſing this day with true Healing under his Wings; and how beautiful is the Feet of him that bringeth glad Tydings upon the Mountains of <hi>Iſrael;</hi> who publiſheth Peace and Salvation upon the <hi>Hills;</hi> behold thy Beloved cometh, skipping over the Mountains, and leaping over the Hills: behold the Com<g ref="char:EOLhyphen"/>forter of <hi>Zion's</hi> Mourners is come, he is haſtening on his way for their Deliverance, and everlaſting Redemption is drawing nigh; the day of the Redeemed is come: they ſhall walk up to his ho<g ref="char:EOLhyphen"/>ly Mountain with Joy and everlaſting rejoycing upon their Heads; yea, Mourning and Sorrow and Sighing ſhall fly away; <hi>He will wipe all tears away from their eyes,</hi> and they ſhall ſorrow no more, becauſe all old things are paſſed away, and all things are become new.</p>
+               <l>There is that within this Lamp of Gold,</l>
+               <l>Which to man was never yet unfold.</l>
+               <p>Therefore hear what the Spirit ſaith; <hi>And he that hath an Ear to hear, let him hear what the Spirit ſaith, and ſignifieth unto you.</hi> Hear, that your Souls may live; for by hearing cometh Life and Im<g ref="char:EOLhyphen"/>mortality to be brought to light, by hearing of his Voyce with<g ref="char:EOLhyphen"/>in; ſo every one muſt come home, and ſtand upon their Watch-Tower, and hear what the Lord faith unto them: He that ſpeak<g ref="char:EOLhyphen"/>eth from Heaven unto thee, is thy Soul's Beloved, in whom thou wilt come to rejoyce with unſpeakable Joy, full of Glory.</p>
+               <lg>
+                  <l>He filleth the Hungry with good things,</l>
+                  <l>He hath made a Feaſt for his <hi>Prieſts</hi> and <hi>Kings;</hi>
+                  </l>
+                  <l>Yea, a Feaſt of <hi>Fat Things.</hi>
+                  </l>
+                  <l>
+                     <hi>[A Feaſt within his holy Mountain]</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I have glad-tydings to declare; I'm fill'd with more than I can bear.</l>
+                  <l>To you I muſt glad-tidings bring; for now's the pleaſant time of Spring.</l>
+                  <l>I hear ſuch pleaſant <hi>Melody:</hi> I tell you now that <hi>Summer's</hi> nigh.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Turtle's</hi> Voice is heard within our Land;</l>
+                  <l>His Voice I hear, I do it underſtand.</l>
+               </lg>
+               <lg>
+                  <l>I hear him now to ſing at home: Where Lov's <hi>Fountain's overſtown.</hi>
+                  </l>
+                  <l>And when the <hi>Winter's</hi> gone and paſt: The Redeem'd ſhall ſing <hi>Hallelujah</hi> at laſt.</l>
+                  <pb n="5" facs="tcp:38207:4" rendition="simple:additions"/>
+                  <l>And to him that overcometh I will give a new Name in the white <hi>Stone.</hi>
+                  </l>
+                  <l>And none ſhall know it but him, that 'tis his own.</l>
+                  <l>And he ſhall reign as King, and ſit upon the Throne.</l>
+               </lg>
+               <p>
+                  <hi>And to him that overcometh, I will give unto him the Key of</hi> David, <hi>that openeth, and none can ſhut; and ſhutteth, and none can open:</hi> He will give unto them his spirit: <hi>The Spirit ſearcherb all Things, even the deep Things of God.</hi> His Spirit ſpeaketh expreſ<g ref="char:EOLhyphen"/>ly therefore, <hi>He that hath an Ear to hear, let him hear what the Spirit faith,</hi> and the <hi>Bridegroom</hi> ſaith unto the <hi>Churches;</hi> and more eſpecially in the Church of the <hi>Firſt Born,</hi> whoſe Names are written in <hi>Heaven;</hi> who are come to the Word of God written in their Hearts: theſe muſt ſpeak, as the Spirit gives Utterance; there is no limit, nor tye to them: The Children of the Kingdom are free, being born of the Free Spirit; and as the Wind bloweth where it liſteth, and on whom it liſteth; even ſo is the Spirit, deſcending as <hi>lightuing</hi> upon whom he pleaſeth; there is no time nor place appointed for him; how, or when, or where he ſhall appear; and in whom, or by whom he ſhall ſpeak, or he ſhall not ſpeak; ſeeing the Holy Men of God, ought to ſpeak as the Holy Ghoſt moveth in them, and as the Spirit gave them utterance; each one particularly as they had received, ſo they miniſtred of the Manifold Graces of God: None is to be tyed up from this, for this is the Worſhipping God in Spirit; neither at this Mountain, nor at <hi>Jeruſalem</hi> is the Father worſhip't; but at all times, and at all Places, the Father of all Spirits is worſhip't where the Spirit draws and leads them thereto: and you have an <hi>Ointing</hi> which is in you, which is able to teach you all things; which is <hi>Truth,</hi> the Spirit of <hi>Truth,</hi> the holy anointing of the Father, the Son from Heaven, whom all are commanded to hear; and the Voice that was heard out of the excellent Glory, faith on this wiſe; <hi>This is my well beloved Son, in whom I am well pleaſed, hear ye him in all Things:</hi> He is <hi>King</hi> and <hi>Law-giver, High-Prieſt,</hi> and <hi>Prophet;</hi> and all that ſhall re<g ref="char:EOLhyphen"/>fuſe to hear him whereever he ſpeaketh, <hi>they ſhall be c<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> off:</hi> the Mouth of the Lord of Hoſts hath ſpoken it: He is a Spirit, and all muſt bow, and worſhip him in Spirit; yea, <hi>Angels</hi> and <hi>Spirits, Pincipalities</hi> and <hi>Powers, Dominions</hi> and <hi>Kingdoms</hi> he will rule by the Word of his Eternal Power; and when he bringeth his Firſt Begotten into the World, he ſaith, <hi>Let all the Holy An<g ref="char:EOLhyphen"/>gels
+<pb n="6" facs="tcp:38207:5"/>worſhip Him:</hi> So there is nothing to be bowed unto but him alone, who ſitteth upon the Throne; ſo all the <hi>Iſraelites,</hi> who are ſo indeed, who are born of the holy right <hi>Seed,</hi> they are to follow the Lord fully, and the <hi>Lamb</hi> that leadeth them, as <hi>Ca<g ref="char:EOLhyphen"/>leb</hi> and <hi>Joſhua</hi> did, who were the valiant hearted of <hi>Iſrael,</hi> againſt whom the Evil Spies caſt their <hi>Stones,</hi> Numb 14. They could not enter themſelves for the <hi>Gyants,</hi> and the <hi>Anakins,</hi> and the many things that lied in the way; but the Faithful, full of Faith, followed the Lord fully, he led them by the right hand; he re<g ref="char:EOLhyphen"/>buked the Waters, and made them at a ſtand; theſe, through <hi>Faith,</hi> became more than Conquerours and conquered Death, and obtained the Crown, and R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſurrection, and holy Life: Say to the Righteous, <hi>It ſhall go well with them; but wo to the wicked, the proud, and the Oppreſſors, it ſhall go ill with them: wo unto them that are at eaſe in Sion this day, who are ſtretching themſelves upon their Beds of Ivory and Eaſe; who are drinking their Wine in Bowls: theſe have not conſidered the Afflictions of</hi> Joſeph, <hi>and have not been acquainted with the day of</hi> Jacob's Trouble: <hi>but now their Beds ſhall be too ſhort to ſtretch themſelves at eaſe upon; their Covering ſhall be too narrow to hide them under.</hi> Behold <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſaith the Lord of Hoſts, the God of <hi>Iſrael; I will kindle a Fire in</hi> Si<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, <hi>I will plow</hi> Zion <hi>as a Field, and ſearch Jeruſalem as with Candles,</hi> And bleſſed are all the wiſe <hi>Virgins,</hi> who have <hi>Oyl</hi> in their <hi>Lamps,</hi> whoſe Lights are burning: thoſe who took not only their <hi>Lamps,</hi> the outſide Profeſſion; but took <hi>Oyl</hi> with them; who were ga<g ref="char:EOLhyphen"/>thered by the Lord into and under the Profeſſion and Form of <hi>Chriſt Jeſus;</hi> not the Out-ſide Form, or Out<g ref="char:punc">▪</g>ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Court but in Spirit and in Life were drawn to the Lord; no man can call <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> Lord, but by the Spirit: he is the Lord of all the Spiri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ual-Worſhip, but not of all the Forms: ſo many Forms many have been making and decking for the Son of God, and graving and im<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g out; but he hath hitherto worked beyond them all; he aſcended above all Heavens, above all the Comprehenſions of men, and at laſt ſhin'd in his Glory, and he will ag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in be lifted up, and draw all men after him; though the <hi>Gazers</hi> and <hi>Wonder<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> do not ſee his aſcending into-the Clouds of Heaven; but the ſingle heart<g ref="char:EOLhyphen"/>ed ſees it, whoſe Eyes are ſingle to God; but thoſe that were garniſhing the Sepulchres of the Prophets, and the Tombs of the Prophets in the days paſt, they did not know the coming of <hi>Chriſt</hi> the <hi>Lord;</hi> neither did they receive him when he cam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and
+<pb n="7" facs="tcp:38207:5"/>therefore he ſaith, <hi>Bleſſed are they that ſhall not be offended in me</hi> Behold I lay in <hi>Zion</hi> for a Stone of <hi>Stumbling,</hi> and a Rock of Of<g ref="char:EOLhyphen"/>fence, for the Riſing and Falling of many in <hi>Iſrael;</hi> but a ſure Foundation for all that have built upon it an unmoveable Rock; which the Perſecutors of all ſorts ſhall never be able to move, or lift him out of the way. That which I have ſeen and taſted, and heard with my ears, and my hands have handled of the good Word of God, on which all the ſincere hearted feed on, that grow alive unto God, and of the Milk thereof; and by it they are nouriſhed as lively Branches growing in the <hi>Vine;</hi> growing in Chriſt Jeſus according to their degree and meaſure of the Spirit of Grace which they have received; ſuch ſpeak as the Spirit gives utterance; they ſpeak with the Spirit and with the Underſtand<g ref="char:EOLhyphen"/>ing; they pray with the Spirit and with the Underſtanding; they ſing with the Spirit and with the Underſtanding alſo, as it plea<g ref="char:EOLhyphen"/>ſeth the Spirit to reveal unto them and to prepare that <hi>Offering;</hi> ſuch are with their eyes unto him to pleaſe him, as the Eyes of the Maid is to her Miſtriſs; ſuc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not Men-pleaſers, neither can they daub with untempered <hi>Mortar;</hi> and the <hi>Ax</hi> is laid to the Root of the Tree of <hi>Corruption;</hi> and the Fire is burning and undermining all Building, and every man's Works ſhall be tryed by the Eternal Fire and Conſumption of God; and what work will not indure, by the Fire-Conſumption and Eternal Judgment, ſhall be burnt up; <hi>Before him goeth a Conſuming Fire <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o</hi> burn up his Enemies round about, and he will ſit as <hi>Refiners Fire</hi> and as <hi>Fuller's Soap,</hi> and a Purifier of Silver, to take away the Droſs and the Tin; all muſt feel the Fire burn within their own hearts; all that are walking in the right way (as ſaith the true Diſciples) when <hi>Jeſus</hi> was in the way with them, though unknown to them, <hi>Did not our hearts burn within us.</hi> So the day of burning, of burn<g ref="char:EOLhyphen"/>ing like an <hi>Oven</hi> of Fire, and of much Fire; many muſt yet feel, and be <hi>Baptized</hi> with the <hi>Holy-Ghoſt</hi> and with <hi>Fire;</hi> and feel the <hi>Fan</hi> which he hath in his hand, to purge away all the Filthineſs both of <hi>Fleſh</hi> and <hi>Spirit;</hi> for there is no reprobate <hi>Silver,</hi> nor whited <hi>Walls,</hi> nor painted <hi>Sepulchres</hi> ſhall ſtand; but the Lord will thunder out of <hi>Zion,</hi> and utter his Voice out of his Holy <hi>Mountain,</hi> he will ſhake the Foundations of the Earth and the Heavens alſo he will overturn until he Reign himſelf, who ſaith, <hi>I will ſet my King upon my holy Hill of Zion,</hi> And who amongſt us ſhall dwell with <hi>everlaſting Burning;</hi> and who ſhall abide with
+<pb n="8" facs="tcp:38207:6"/>
+                  <hi>Devouring Fire;</hi> behold the day of the Lord cometh, that will try all, and every one, and none will abide the day of his coming, but they that have known the DAY of his coming within, that have known their <hi>Temples</hi> waſhed and cleanſed, and prepared, and made a ſit Habitation, through the Spirit, for the Living God to dwell, and walk in them; ſuch can ſay of a truth, <hi>The Tabernacle of God is with men, and Grace and Truth is come by Jeſus Chriſt the Righteous, who hath brought with him everlaſting Righteouſneſs:</hi> And this was that the Prophet cryed for, <hi>Ob ſend out thy Light and thy Truth, that i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may lead me to thy Holy Hill of Zion.</hi> And this is the true Leader, the <hi>New-Covenant,</hi> the <hi>Law,</hi> which God ſaid, <hi>He will write in the Table of their Hearts, and I will put my Spirit in their Inward Parts.</hi> And this is the <hi>New-Covenant,</hi> and the <hi>New-Law,</hi> which the Lord ſaid he would give forth in the laſt days, and the old is to paſs away: Through the <hi>Law</hi> came by <hi>Moſes,</hi> it was to paſs away; but <hi>Grace</hi> and <hi>Truth</hi> came by Jeſus Chriſt, which was to be increaſed: and his Go<g ref="char:EOLhyphen"/>vernment ſhould increaſe, and <hi>it ſhall be upon his Shoulders:</hi> and his Kingdom is to be Eſtabliſhed; and his <hi>Government,</hi> which is everlaſting, from generation to generation in all the Line of the Righteous: and he is his <hi>Church-Governour,</hi> that Governs his own <hi>Church: Behold it ſhall come to paſs</hi> (ſaith the Lord of Hoſts) <hi>I will raiſe up the Righteous Branch of David, whoſe King ſhall bear Rule, and proſper; of whoſe Kingdom and Government there ſhall be no end.</hi> Yea, many ſhall come from the <hi>Eaſt,</hi> and the <hi>Weſt,</hi> the <hi>North</hi> and <hi>South,</hi> and ſhall flock as <hi>Doves</hi> to the Windows of the <hi>Ark,</hi> and ſhall ſit down with <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> in the Heavenly Places in Chriſt Jeſus, in the <hi>Muniſhonal Rock;</hi> where their <hi>Bread</hi> ſhall be ſure, and their <hi>Water</hi> ſhall not fall; and the Inhabitants of the Rock ſhall ſing and ſhout for Joy, for a wiſer than <hi>Solomon</hi> is here, and to us he doth appear; this is the Prince of our <hi>Peace,</hi> this is our <hi>Counſellor,</hi> the <hi>Wonderful,</hi> the great <hi>Jehova.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <l>The great King: and unto him all the <hi>Saints</hi> Praiſes ſhall ſing,</l>
+               <l>For unto us he will Deliverance bring.</l>
+               <l>And of it we have no cauſe to doubt,</l>
+               <l>For he will work, and bring it ſo about,</l>
+               <l>That his Enemies at laſt he will tire out.</l>
+               <l>Some ſay, <hi>Seal him down;</hi> others ſay, <hi>Make it ſure,</hi>
+               </l>
+               <l>
+                  <hi>Prepare Watchmen to ſtand without the Door.</hi>
+               </l>
+               <l>But his <hi>Redeemed</hi> he will to <hi>Mount Zion</hi> bring,</l>
+               <l>Where they ſhall ſhout for Joy, and Praiſes they ſhall ſing.</l>
+               <pb n="9" facs="tcp:38207:6"/>
+               <l>Having their <hi>Harps</hi> ready in their hand,</l>
+               <l>Clothed in white then they ſhall ſtand.</l>
+               <l>Singing that Song, which none ſhall ever know,</l>
+               <l>But they that have the Fountain in them ſweetly flow:</l>
+               <l>Theſe follow the <hi>Lamb</hi> whereſoever he doth go.</l>
+               <l>Yea, through the great Tribulation; through the waſhing of <hi>Regene<g ref="char:EOLhyphen"/>ration</hi>
+               </l>
+               <l>Therefore are they crown'd with <hi>Life</hi> and everlaſting <hi>Salvation.</hi>
+               </l>
+               <l>And in God's Reſt theſe come to lye down,</l>
+               <l>Where he ſets on their Heads an everlaſting Crown.</l>
+               <l>But wo to the proud <hi>Oppreſſors,</hi> and <hi>Profeſſors</hi> of all ſorts,</l>
+               <l>That are only gathered into Outward Courts.</l>
+               <l>
+                  <hi>[I am that I am, ſaith Cry Aloud]</hi>
+               </l>
+               <l>If any think that God's Spirit they will ſilent keep,</l>
+               <l>You do but dream while you are aſleep:</l>
+               <l>And when you Work you think that you have done,</l>
+               <l>You have it as much to do, as when you firſt begun;</l>
+               <l>No more than you can pluck the <hi>Sun</hi> out of the Firmament;</l>
+               <l>When you have all done, your Labour is vainly ſpent.</l>
+            </div>
+            <div type="part">
+               <p>God at ſundry times, and after divers manners, in the days that are paſt; he then ſpake to our <hi>Fathers</hi> by the Prophets; but in theſe latter days he now ſpeaketh unto us by his own Son; whom he hath made Heir of all things, by whom alſo he made the <hi>World,</hi> and laid the Foundations thereof by his Eternal Word, and this is one of his Names: his Name is called, <hi>The Word of God:</hi> And upon his Veſture it is written, <hi>He is Lord of Lords, and King of Kings;</hi> and, <hi>By him Kings Reign, and Princes decree Juſtice.</hi> And all juſt things come from him, and all righteous Laws and Decrees are made by him, and there is no <hi>
+                     <g ref="char:V">Ʋ</g>nrighteouſneſs</hi> with him, nor in him. So in the days that are paſt, the People of the Lord God had a <hi>Law-giver</hi> outwardly; which <hi>Law</hi> was given from the Lord through his Servant <hi>Moſes,</hi> which the People were then un<g ref="char:EOLhyphen"/>der that Diſpenſation of the <hi>Law,</hi> and obedient thereunto they were then required: but that Diſpenſation is paſſed away, and the <hi>Goſpel</hi> Diſpenſation is come forth; and he is come that fulfil<g ref="char:EOLhyphen"/>led the <hi>Law</hi> and the <hi>Prophets,</hi> and putteth an end to all <hi>Laws</hi> out<g ref="char:EOLhyphen"/>wardly, and only directs and points at the <hi>Goſpel</hi> Diſpenſation, an inward intelligible Teaching, with this Saying, <hi>You have a more ſurer Word of Propheſy:</hi> Unto which you do well, if you take good heed, and go not out from it, after any thing that is made or pre<g ref="char:EOLhyphen"/>ſcribed by the Invention of Man; but keep to the anointing the
+<pb n="10" facs="tcp:38207:7" rendition="simple:additions"/>holy <hi>
+                     <g ref="char:V">Ʋ</g>nction</hi> which you have already received of the Father: you that have received this, let the Word of Life dwell plentiful<g ref="char:EOLhyphen"/>ly in you, that ingrafted Word which is able to ſave you, lead you, guide and direct you, move not without it; awake not your Beloyed until he pleaſe to move and riſe in you, wait for the coming down of the Angel, for the moving and ſtirring of the <hi>Waters,</hi> and then put forth, and not before. Behold I ſend my An<g ref="char:EOLhyphen"/>gel to teſtifie theſe things to the <hi>Churches: I am the bright and Morning Star, the Root and Off-Spring of David:</hi> The <hi>Day-Star</hi> is come; <hi>He maketh his Angels Chariots, his Miniſters as a Flame of Fire.</hi> He hath touched their tongues with a <hi>Coal</hi> from his burning <hi>Altar,</hi> and for <hi>Zion's</hi> ſake, ſuch cannot hold their peace, and for <hi>Jeruſalem's</hi> ſake, they cannot ceaſe, but their <hi>Leader</hi> they muſt obey, neither move without him nor go before him: theſe are led by him, who is their Captain, who leads them forward: theſe cannot go back to the <hi>Law,</hi> nor go back to that which is paſt, we are no more D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bters to the <hi>Law</hi> but under the teachings of Free <hi>Grace:</hi> ſo our Eyes are looking forward, and eying the Lord, who is leading of us to <hi>Mount Sion,</hi> unto the New <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> where <hi>Perfection</hi> will be known, where <hi>Hallelujah,</hi> we ſhall ſing before his Throne, who is faithful and true; the <hi>Alpha</hi> and <hi>Omega,</hi> and Beginning and the End. <hi>Behold I come quickly</hi> (ſaith the <hi>Firſt</hi> and the <hi>Laſt</hi>) <hi>I will give unto every Man a Reward as his Works ſhall be.</hi>
+               </p>
+               <l>This was the Harmony the Angels did ſing,</l>
+               <l>At the Birth of <hi>Zion's</hi> King,</l>
+               <l>And ſuch glad Tydings they did bring,</l>
+               <l>Peace on Earth, and good Will towards all Men.</l>
+               <p>We knowing the Author of theſe Things to be one that truly feareth the Lord; and alſo to be of a blameleſs Life and Conver<g ref="char:EOLhyphen"/>ſation, could not be ſatisfied till we had it to the <hi>Preſs.</hi>
+               </p>
+               <closer>
+                  <date>The <hi>20th.</hi> of the <hi>3d.</hi> Month, 1684.</date>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
